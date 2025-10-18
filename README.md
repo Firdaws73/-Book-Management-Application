@@ -31,7 +31,7 @@ The system supports two types of users: **Admins** and **Regular Users**.
 - Access the Django admin panel
 <img width="1840" height="955" alt="Admin_Panel" src="https://github.com/user-attachments/assets/6826bf9d-7f9d-4b19-9255-2cea7325ebe9" />
 
--## ⚙️ How to Run the Project
+⚙️ How to Run the Project
 
 Follow these steps to run the application locally:
 
