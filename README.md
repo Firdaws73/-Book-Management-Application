@@ -1,7 +1,13 @@
 # 📚 Book Management Application
 
 A Django-based web application for managing and sharing books online.  
+
+
+
+<img width="1855" height="898" alt="Homepage" src="https://github.com/user-attachments/assets/173d5f2e-661d-4d39-9cab-cfa989165f8f" />
+
 The system supports two types of users: **Admins** and **Regular Users**.
+
 
 - **Users** can register, log in, upload books in PDF format, download available books, and manage their own uploads.  
 - **Admins** can manage all users and books, including adding, editing, and deleting.
@@ -16,11 +22,14 @@ The system supports two types of users: **Admins** and **Regular Users**.
 - View and manage their own uploaded books
 - Browse books uploaded by others
 
+- 
+
 ### 🛠️ Admin Features
 - Manage all users (edit, delete)
 - Add, edit, and delete any book
 - Moderate book uploads
 - Access the Django admin panel
+<img width="1840" height="955" alt="Admin_Panel" src="https://github.com/user-attachments/assets/6826bf9d-7f9d-4b19-9255-2cea7325ebe9" />
 
 -## ⚙️ How to Run the Project
 
